@@ -1,1 +1,1 @@
-# Automatic Essay Grammar and overall Essay scoring
+# Automatic Essay and Grammar scoring
